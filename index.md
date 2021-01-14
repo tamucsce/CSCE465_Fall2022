@@ -1,9 +1,7 @@
 ## Course Information
 - **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
-- **Lectures**: TR 5:30 pm - 6:45 pm, HRBB 113
-- **Office Hour**: 1-2 pm Monday or by appointment, HRBB 414A
-- **TA**: Zhiyong Fang (zhiyong.fang.1997@tamu.edu)
-- **TA's Office Hour**: 9-11 am Thursday or by appointment, HRBB 423C
+- **Lectures**: MW 5:35 pm - 6:50 pm
+- **Office Hour**: By appointment
 
 ## Course Description
 **Contents:** Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security. 
