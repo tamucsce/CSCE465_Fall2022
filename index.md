@@ -3,143 +3,241 @@
 - **Lectures**: MW 5:35 pm - 6:50 pm
 - **Office Hour**: By appointment
 
-## Course Description
-**Contents:** Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security. 
+## Course Description and Prerequisites
+
+This course covers techniques in applied cryptography and their applications in machine learning and blockchain to enhance data privacy. Related cryptographic techniques include secure multiparty computations, verifiable computations and zero knowledge proofs. We will discuss their basic concepts and state-of-the-art constructions. Additionally, we will talk about how to use these techniques to construct privacy-preserving machine learning, crypto-currencies and blockchain. We will focus on efficiency and functionality constraints in practice, and discuss challenges and solutions to efficiently realize these cryptographic protocols. 
+
+The course has no specific prerequisites. Basic knowledge of algorithms, data structures and programming is recommended.
 
 
-**Textbooks:**
-- (Required) Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
 
-- (Optional) Handbook of Applied Cryptography – available online at: http://cacr.uwaterloo.ca/hac/
+## Textbook and Resource Materials
 
+No textbook is required for the course. Reading materials will be posted online during the semester
 
 
 ## Schedule (tentative)
 
-<table style="table-layout: fixed; font-size: 88%;">
-  <thead>
+<table style="width: 100%">
     <tr>
-      <th style="width: 20%;"> Week </th>
-      <th style="width: 50%;"> Topic </th>
-      <th style="width: 30%;"> Required Reading</th>
-      <th style="width: 30%;"> Assignment </th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td>1 (Jan. 14)   </td>
-      <td>Introduction Security Properties and Principles Security vocabulary </td>
-      <td>GT Ch. 1 Thompson paper </td>
-      <td></td>
+        <th style="width: 5%;">Date</th>
+      <th style="width: 10%;">Sections</th>
+      <th style="width: 40%;">Topic & slides</th>
+      <th style="width: 45%;">Readings</th>
+      <th style="width: 20%;">Deadlines</th>
     </tr>
     <tr>
-      <td>2 (Jan. 21)   </td>
-      <td>OS Security Program vulnerabilities </td>
-      <td>GT Ch. 3 https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/
-AlephOne paper </td>
-      <td></td>
+        <th>8/27</th>
+        <th>Introduction</th>
+        <th>Introduction and logitics
+        <a href="https://drive.google.com/file/d/1HiljvmS8NvDTvhAOPo2pvuBgaL4gsLFG/view?usp=sharing">(Slides)</a>
+        </th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
-      <td>3 (Jan. 28)   </td>
-      <td>Program vulnerabilities </td>
-      <td></td>
-      <td>HW 1 due Tues Jan 28 </td>
+        <th>8/29</th>
+        <th rowspan="5">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
+        <th>Introduction to secure multiparty computation and Yao's Garbled circuit <a href="https://drive.google.com/file/d/1trzqA6NTaTmFOI9uTNOSzqqHkrnQSJYS/view?usp=sharing">(Slides)</a></th>
+        <th>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Yao's Garbled Circuit</a></li>
+            <li><a href="https://www.iacr.org/archive/eurocrypt2015/90560204/90560204.pdf"> Half Gates</a></li>
+          </ul>        
+        </th>
+        <th></th>
     </tr>
     <tr>
-      <td>4 (Feb. 4)   </td>
-      <td>Program vulnerabilities Crypto – symmetric</td>
-      <td>GT Ch. 8.1 </td>
-      <td></td>
+        <th>9/3</th>
+        <th>GMW protocol <a href="https://drive.google.com/file/d/13s3_bEbFSw2kFvEONg29qEmnK7P825o9/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">GMW protocol</a></li></th>
+        <th></th>
     </tr>
     <tr>
-      <td>5 (Feb. 11)   </td>
-      <td>Crypto – symmetric vs. public </td>
-      <td>GT Ch. 8.5, 8.2 </td>
-      <td></td>
+        <th>9/5</th>     
+        <th>Malicious security and fairness <a href="https://drive.google.com/file/d/1LJzZfzekNV8ZjXl7HeiUfp5O2s_D7Jbv/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>9/10</th>
+        <th>Privacy-preserving linear regression  <a href="https://drive.google.com/file/d/1tR6o-6PUuhkJpkwHxrCt7yEJe5EaBWix/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></li></th>
+        <th>Team Formation</th>
+    </tr>
+    <tr>
+        <th>9/12</th>
+        <th>Privacy-preserving logistic regression and neural networks <a href="https://drive.google.com/file/d/1T0ZwuKZVTlv2UdWB8L_ist-goJd2yV7p/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://encrypto.de/papers/DSZ15.pdf">ABY framework</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>9/17</th>
+        <th rowspan="8">Searchable Encryptions</th>
+        <th>Introduction to searchable encryption <a href="https://drive.google.com/file/d/1nSK9XpXYarH9NrTnJSK-lN6ubxkT7vQS/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://eprint.iacr.org/2006/210.pdf">Searchable Symmetric Encryption</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>9/19</th>
+        <th>Dynamic searchable encryption <a href="https://drive.google.com/file/d/1Bny__LTjQczr1KzoziBO2MAoC-W5kXVv/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://eprint.iacr.org/2012/530.pdf">Dynamic searchable encryption</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>9/24</th>
+        <th rowspan="4">No class due to travel</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th >9/26</th>
+        <th></th>
+        <th >project proposal due</th>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <tr>
+        <th>10/1</th>
+        <th>Forward and backward security <a href="https://drive.google.com/file/d/1knDspu2KrWfAyweYlihX6S__RlDSrcVQ/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://eprint.iacr.org/2013/832.pdf">Dynamic SSE with forward security</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/3</th>
+        <th>Attacks to searchable encrytion <a href="https://drive.google.com/file/d/1aO5xcwpiiKdsuY7B_l5qPEGssBOgKEMe/view?usp=sharing">(Slides)</a></th>
+        <th>
+            <li><a href="https://www.ndss-symposium.org/wp-content/uploads/2017/09/06_1.pdf">Inference Attack</a></li>
+            <li><a href="https://eprint.iacr.org/2016/718.pdf">Leakage Abuse Attack</a></li>
+            <li><a href="https://eprint.iacr.org/2016/172.pdf">File Injection Attack</a></li>
+        </th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/8</th>
+        <th rowspan="12">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
+        <th>Introduction to verifiable computation and zero knowledge proof <a href="https://drive.google.com/file/d/1C9f7DbPvlTGPtDfDUNgBsULeZBOToGsS/view?usp=sharing">(Slides)</a></th>
+        <th>
+            <li><a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a></li>
+        </th>   
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/10</th>
+        <th>Customized solutions: RSA accumulator <a href="https://drive.google.com/file/d/14EWsD5CfsWwtPRccqjlNeNBDnlDCxW4M/view?usp=sharing">(Slides)</a></th>
+        <th>
+            <li><a href="https://cs.brown.edu/people/alysyans/papers/camlys02.pdf">RSA Accumulator</a></li>
+            <li><a href="https://user.eng.umd.edu/~cpap/published/cpap-rt-nikos-08.pdf">Authenticated Hash Tables</a></li>
+        </th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/15</th>
+        <th>Customized solutions: Bilinear accumulator <a href="https://drive.google.com/file/d/16SUBTkup7b_1yBc09K7Vr2O2jY5t6E_6/view?usp=sharing">(Slides)</a></th>
+        <th>
+            <li><a href="https://eprint.iacr.org/2010/455.pdf">Bilinear Accumulator</a></li>
+        </th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/17</th>
+        <th rowspan="2">Generic solutions:SNARK <a href="https://drive.google.com/file/d/1_Hp99zYupcEPJ0UWQOyk4FIpFg-7grBm/view?usp=sharing">(Slides 1)</a> <a href="https://drive.google.com/file/d/16B6N5o8-PwKgu3eVHs0TIrnKRCgVcgou/view?usp=sharing">(Slides 2)</a></th>
+        <th rowspan="2"> 
+            <li><a href="https://eprint.iacr.org/2013/279.pdf">SNARK</a></li>
+        </th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/22</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/24</th>
+        <th>Introduction to blockchain, cryptocurrency and smart contract <a href="https://drive.google.com/file/d/1oyMfwKpcegzXqtJRWBlthhTLUJ_3uk1m/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/29</th>
+        <th>Midterm project presentation</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10/31</th>
+        <th>Pricacy-preserving crypto-currencies <a href="https://drive.google.com/file/d/18uDvDpP9skpRwyR_s-l4SCQehG68Q9xD/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zcash</a></li></th>
+        <th>Progress Report Due</th>
+    </tr>
+    <tr>
+        <th>11/5</th>
+        <th>Privacy-preserving smart contract <a href="https://drive.google.com/file/d/1D6kharNcLjjcBn6E6BpXvzwphpNxogna/view?usp=sharing">(Slides)</a></th>
+        <th><li><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>11/7</th>
+        <th rowspan="3">Generic solutions: interactive proof
+        <a href="https://drive.google.com/file/d/1fRzExfJuSwB5vUPtOtRK07rApsadKA-7/view?usp=sharing">(Slides 1 sumcheck)</a>
+            <a href="https://drive.google.com/file/d/1NIg9XJEQ74cjD1kUXLBbsp1oglZ1EtKj/view?usp=sharing">(Slides 2 GKR)</a>
+            <a href="https://drive.google.com/file/d/1KTy4fkmtiTT4OZg0GhFMGVeiiZ9FiKY4/view?usp=sharing">(Slides 3 Polynomial commitment)</a>
+        </th>
+        <th rowspan="2"><li><a href="https://eprint.iacr.org/2013/351.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>11/12</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>11/14</th>
+        <th><li><a href="https://eprint.iacr.org/2011/587.pdf">Polynomial delegation</a></li></th>    
+        <th></th>
+    </tr>  
+    <tr>
+        <th>11/19</th>
+        <th rowspan="5">Project Presentations</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+      <tr>
+        <th>11/21</th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr> 
     <tr>
-      <td>6 (Feb. 18)   </td>
-      <td>Crypto – hash functions and signatures, PKI </td>
-      <td>GT Ch. 8.3-8.4 </td>
-      <td>HW 2 due Tues Feb 18</td>
+        <th>11/26</th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
-      <td>7 (Feb. 25)   </td>
-      <td>Malware, <b>MIDTERM EXAM</b> </td>
-      <td>GT Ch. 4 </td>
-      <td>MIDTERM Thu Feb 27</td>
+        <th>11/28</th>
+        <th>No class, Thanksgiving</th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
-      <td>8 (Mar. 3)   </td>
-      <td>Network Security – TCP/IP, UDP, NAT </td>
-      <td>GT Ch. 5 </td>
-      <td>HW 3 due Tues Mar 3 </td>
+        <th>12/3</th>
+        <th></th>
+        <th></th>
+        <th>Final report due</th>
     </tr>
-    <tr>
-        <td align="center" colspan="4"><b>SPRING BREAK</b></td>
-    </tr>
-    <tr>
-      <td>9 (Mar. 17)   </td>
-      <td>Network Security – DNS, Firewalls, VPN </td>
-      <td>GT Ch. 6.1-6.4 </td>
-      <td></td>
-    </tr>
-     <tr>
-      <td>10 (Mar. 24)   </td>
-      <td>Wireless Security Web Security </td>
-      <td>GT Ch 6.5 GT Ch 7 </td>
-      <td>HW 4 due Thu Mar 26</td>
-    </tr> 
-    <tr>
-      <td>11 (Mar. 31)   </td>
-      <td>Web Security </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>12 (Apr. 7)   </td>
-      <td>Security Models </td>
-      <td>GT Ch. 9 </td>
-      <td>HW 5 due Thu Apr 9</td>
-    </tr>
-    <tr>
-      <td>13 (Apr. 14)   </td>
-      <td>Distributed Security </td>
-      <td>GT Ch. 10 </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 (Apr. 21)   </td>
-      <td>Physical Security </td>
-      <td>GT Ch. 2 </td>
-      <td>HW 6 due Thu Apr 23 </td>
-    </tr> 
-    <tr>
-      <td colspan="4"><b>FINAL EXAM</b> See: http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules
-TR 5:30pm has final exam Tuesday May 5 from 3:30pm-5:30pm</td>
-    </tr>
-  </tbody>
-
 </table>
 
 ## Grading
-**Homeworks:** 550 points (distributed across 6 homeworks). Your assignments must be typed and in PDF format. Submit assignment to gradescope (https://www.gradescope.com)
-
-**Midterm exam:** 200 points
-
-**Final exam:** 250 points
+**Reading assignments:** 35%. Students will submit reviews for one of the reading materials every week.
+**Course project:** 65%. Students will form groups and complete research projects related to the topics of the course.
 
 ## Links
-**Piazza:** https://piazza.com/class/k5ble8wlxibb3
 
-**Assignment Turnin:** https://gradescope.com
+**Assignments and Gradebook:** http://ecampus.tamu.edu/
 
-**Gradebook:** http://ecampus.tamu.edu/
-
+## Suggested topics for projects:
 
 ## Ethics & Academic Integrity Statement and Policy
-We will study/discuss threats and attacks in the class/lab. You should be fully aware of ethics when studying these techniques. If in any context you are not sure about where to draw the line, come talk to me first.
 
 "An Aggie does not lie, cheat, or steal or tolerate those who do." For additional information, please visit: http://aggiehonor.tamu.edu.  
 
