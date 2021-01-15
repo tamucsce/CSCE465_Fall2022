@@ -81,11 +81,11 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>2/17</th>
         <th>Privacy-preserving neural networks</th>
         <th></th>
-        <th></th>
+        <th>Proposal due</th>
     </tr>
         <tr>
         <th>2/22</th>
-        <th rowspan="12">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
+        <th rowspan="15">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
         <th>Introduction to verifiable computation and zero knowledge proof</th>
         <th></th>   
         <th></th>
@@ -115,25 +115,25 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>3/10</th>
-        <th>Midterm project presentation</th>
+        <th>Introduction to blockchain and cryptocurrency</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/15</th>
-        <th>Midterm project presentation</th>
+        <th>Pricacy-preserving crypto-currencies</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/17</th>
-        <th>Introduction to blockchain and cryptocurrency</th>
+        <th>Midterm project presentation</th>
         <th></th>
-        <th>Progress Report Due</th>
+        <th></th>
     </tr>
     <tr>
         <th>3/22</th>
-        <th>Pricacy-preserving crypto-currencies</th>
+        <th>Midterm project presentation</th>
         <th></th>
         <th></th>
     </tr>
@@ -141,7 +141,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>3/24</th>
         <th>Smart contract</th>
         <th></th>
-        <th></th>
+        <th>Progress Report Due</th>
     </tr>
     <tr>
         <th>3/29</th>
@@ -171,6 +171,31 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
         <th></th>
     </tr>
+        <tr>
+        <th>4/14</th>
+        <th rowspan="4">Project Presentations</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+      <tr>
+        <th>4/19</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>4/21</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>4/26</th>
+        <th></th>
+        <th></th>
+        <th>Final report due 4/29</th>
+    </tr>
 </table>
 
 ## Grading
@@ -183,6 +208,22 @@ No textbook is required for the course. Reading materials will be posted online 
 **Assignments and Gradebook:** http://ecampus.tamu.edu/
 
 ## Suggested topics for projects:
+### Secure Multiparty Computations
+
+- **Privacy-preserving decision trees and random forest training and/or predictions**: apply MPC techniques to train decision tree and random forest models on encrypted data. 1. Understand decision tree and random forest. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
+- **Privacy-preserving SVM training and/or predictions**: apply MPC techniques to train SVM models on encrypted data. 1. Understand SVM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
+
+### Zero Knowledge Proof
+
+- **Zero knowledge proof for machine learning model predictions**: generate a proof that the predictions of a secret model on a public testing dataset reaches certain accuracy. Design efficient ZKP protocols for convolution, neural networks and common activation functions.    
+- **Contingent payment on blockchain with zero knowledge proof**: design fair exchange protocols on blockchains using zero knowledge proofs.
+- **Privacy-preserving smart contracts**: 1. Understand the mechanism of smart contract. 2. Find commonly used smart contracts on existing blockchains and cryptocurrencies. 3. Given general purpose ZKP, design protocols for privacy-preserving smart contracts. 4. Implement the ZKP protocol using existing libraries and optimize for those commonly used smart contracts.
+
+### Blockchains
+
+- **Information inference from public data on Bitcoin blockchain**: 1. Understand the public data posted on the blockchain of Bitcoin and figure out ways to download the data. 2. Repeat data analysis from existing papers. 3. Design new attacks to infer sensitive information from the public data, such as dead coins and large volume transactions and its correlations with the price of bitcoin.
+- **Information inference from public data on Ethereum**: Same as bitcoin. In addition, analyze the smart contracts.
+- **Scaling up blockchains**: sharding, rollup (optimistim rollup and zk rollup) etc.
 
 ## Ethics & Academic Integrity Statement and Policy
 
