@@ -21,7 +21,7 @@ No textbook is required for the course. Reading materials will be posted online 
 <table style="width: 140%">
     <tr>
         <th style="width: 5%;">Date</th>
-        <th style="width: 10%;">Sections</th>
+        <th style="width: 20%;">Sections</th>
         <th style="width: 40%;">Topic & slides</th>
         <th style="width: 45%;">Readings</th>
         <th style="width: 20%;">Deadlines</th>
@@ -35,7 +35,6 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>1/25</th>
-        <th></th>
         <th>Background on Cryptography</th>
         <th></th>
         <th></th>
@@ -58,7 +57,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>2/3</th>
         <th>GMW protocol</th>
         <th></th>
-        <th></th>
+        <th>Team Formation</th>
     </tr>
     <tr>
         <th>2/8</th>     
@@ -70,7 +69,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>2/10</th>
         <th>Privacy-preserving machine learning and linear regression</th>
         <th></th>
-        <th>Team Formation</th>
+        <th></th>
     </tr>
     <tr>
         <th>2/15</th>
@@ -81,6 +80,94 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>2/17</th>
         <th>Privacy-preserving neural networks</th>
+        <th></th>
+        <th></th>
+    </tr>
+        <tr>
+        <th>2/22</th>
+        <th rowspan="12">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
+        <th>Introduction to verifiable computation and zero knowledge proof</th>
+        <th></th>   
+        <th></th>
+    </tr>
+    <tr>
+        <th>2/24</th>
+        <th>Customized solutions: RSA accumulator</th>
+        <th>
+        </th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/1</th>
+        <th>Customized solutions: Bilinear accumulator</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/3</th>
+        <th rowspan="2">Generic solutions:SNARK</th>
+        <th rowspan="2"></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/8</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/10</th>
+        <th>Midterm project presentation</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/15</th>
+        <th>Midterm project presentation</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/17</th>
+        <th>Introduction to blockchain and cryptocurrency</th>
+        <th></th>
+        <th>Progress Report Due</th>
+    </tr>
+    <tr>
+        <th>3/22</th>
+        <th>Pricacy-preserving crypto-currencies</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/24</th>
+        <th>Smart contract</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/29</th>
+        <th>Privacy-preserving smart contract</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/31</th>
+        <th rowspan="4">Generic solutions: interactive proofs
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>4/5</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>4/7</th>
+        <th></th>    
+        <th></th>
+    </tr>
+    <tr>
+        <th>4/12</th>
         <th></th>
         <th></th>
     </tr>
