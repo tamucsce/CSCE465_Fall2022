@@ -18,7 +18,7 @@ No textbook is required for the course. Reading materials will be posted online 
 
 ## Schedule (tentative)
 
-<table style="width: 100%">
+<table style="width: 140%">
     <tr>
         <th style="width: 5%;">Date</th>
         <th style="width: 10%;">Sections</th>
@@ -27,54 +27,68 @@ No textbook is required for the course. Reading materials will be posted online 
         <th style="width: 20%;">Deadlines</th>
     </tr>
     <tr>
-        <th>8/27</th>
-        <th>Introduction</th>
-        <th>Introduction and logitics
-        <a href="https://drive.google.com/file/d/1HiljvmS8NvDTvhAOPo2pvuBgaL4gsLFG/view?usp=sharing">(Slides)</a>
-        </th>
+        <th>1/20</th>
+        <th rowspan="2">Introduction</th>
+        <th>Introduction and logitics</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>8/29</th>
-        <th rowspan="5">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
-        <th>Introduction to secure multiparty computation and Yao's Garbled circuit <a href="https://drive.google.com/file/d/1trzqA6NTaTmFOI9uTNOSzqqHkrnQSJYS/view?usp=sharing">(Slides)</a></th>
+        <th>1/25</th>
+        <th></th>
+        <th>Background on Cryptography</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>1/27</th>
+        <th rowspan="7">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
+        <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
         <th>
-        <ul>
-          <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Yao's Garbled Circuit</a></li>
-            <li><a href="https://www.iacr.org/archive/eurocrypt2015/90560204/90560204.pdf"> Half Gates</a></li>
-          </ul>        
         </th>
         <th></th>
     </tr>
     <tr>
-        <th>9/3</th>
-        <th>GMW protocol <a href="https://drive.google.com/file/d/13s3_bEbFSw2kFvEONg29qEmnK7P825o9/view?usp=sharing">(Slides)</a></th>
-        <th><li><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">GMW protocol</a></li></th>
+        <th>2/1</th>
+        <th>Yao's Garbled circuit</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>9/5</th>     
-        <th>Malicious security and fairness <a href="https://drive.google.com/file/d/1LJzZfzekNV8ZjXl7HeiUfp5O2s_D7Jbv/view?usp=sharing">(Slides)</a></th>
-        <th><li><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></li></th>
+        <th>2/3</th>
+        <th>GMW protocol</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>9/10</th>
-        <th>Privacy-preserving linear regression  <a href="https://drive.google.com/file/d/1tR6o-6PUuhkJpkwHxrCt7yEJe5EaBWix/view?usp=sharing">(Slides)</a></th>
-        <th><li><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></li></th>
+        <th>2/8</th>     
+        <th>Malicious security and fairness</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>2/10</th>
+        <th>Privacy-preserving machine learning and linear regression</th>
+        <th></th>
         <th>Team Formation</th>
     </tr>
     <tr>
-        <th>9/12</th>
-        <th>Privacy-preserving logistic regression and neural networks <a href="https://drive.google.com/file/d/1T0ZwuKZVTlv2UdWB8L_ist-goJd2yV7p/view?usp=sharing">(Slides)</a>    </th>
-        <th><li><a href="https://encrypto.de/papers/DSZ15.pdf">ABY framework</a></li></th>
+        <th>2/15</th>
+        <th>Privacy-preserving logistic regression</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>2/17</th>
+        <th>Privacy-preserving neural networks</th>
+        <th></th>
         <th></th>
     </tr>
 </table>
 
 ## Grading
 **Reading assignments:** 35%. Students will submit reviews for one of the reading materials every week.
+
 **Course project:** 65%. Students will form groups and complete research projects related to the topics of the course.
 
 ## Links
