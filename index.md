@@ -115,25 +115,25 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>3/10</th>
-        <th>Introduction to blockchain and cryptocurrency</th>
+        <th>Midterm project presentation</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/15</th>
-        <th>Pricacy-preserving crypto-currencies</th>
+        <th>Midterm project presentation</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/17</th>
-        <th>Midterm project presentation</th>
+        <th>Introduction to blockchain and cryptocurrency</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/22</th>
-        <th>Midterm project presentation</th>
+        <th>Pricacy-preserving crypto-currencies</th>
         <th></th>
         <th></th>
     </tr>
@@ -141,7 +141,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>3/24</th>
         <th>Smart contract</th>
         <th></th>
-        <th>Progress Report Due</th>
+        <th></th>
     </tr>
     <tr>
         <th>3/29</th>
