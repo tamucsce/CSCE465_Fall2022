@@ -61,7 +61,7 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>2/3</th>
         <th>GMW protocol</th>
-        <th><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a></li></th>
+        <th><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a></th>
         <th>Team Formation</th>
     </tr>
     <tr>
