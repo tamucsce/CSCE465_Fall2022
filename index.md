@@ -22,9 +22,9 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th style="width: 5%;">Date</th>
         <th style="width: 20%;">Sections</th>
-        <th style="width: 40%;">Topic & slides</th>
+        <th style="width: 40%;">Topic</th>
         <th style="width: 45%;">Readings</th>
-        <th style="width: 20%;">Deadlines</th>
+        <th style="width: 20%;">Deadline</th>
     </tr>
     <tr>
         <th>1/20</th>
@@ -43,32 +43,37 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>1/27</th>
         <th rowspan="7">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
-        <th>
+        <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
         </th>
         <th></th>
     </tr>
     <tr>
         <th>2/1</th>
         <th>Yao's Garbled circuit</th>
-        <th></th>
+        <th>
+        <ul>
+            <li><a href="https://www.peteresnyder.com/static/papers/Peter_Snyder_-_Garbled_Circuits_WCP_2_column.pdf"> Yao's Garbled circuits</a></li>
+            <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Youtube tutorial</a></li>
+        </ul>
+        </th>
         <th></th>
     </tr>
     <tr>
         <th>2/3</th>
         <th>GMW protocol</th>
-        <th></th>
+        <th><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a></li></th>
         <th>Team Formation</th>
     </tr>
     <tr>
         <th>2/8</th>     
         <th>Malicious security and fairness</th>
-        <th></th>
+        <th><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></th>
         <th></th>
     </tr>
     <tr>
         <th>2/10</th>
         <th>Privacy-preserving machine learning and linear regression</th>
-        <th></th>
+        <th><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></th>
         <th></th>
     </tr>
     <tr>
