@@ -54,6 +54,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <ul>
             <li><a href="https://www.peteresnyder.com/static/papers/Peter_Snyder_-_Garbled_Circuits_WCP_2_column.pdf"> Yao's Garbled circuits</a></li>
             <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Youtube tutorial</a></li>
+            <li><a href="https://www.iacr.org/archive/eurocrypt2015/90560204/90560204.pdf">Half gates</a></li>
         </ul>
         </th>
         <th></th>
