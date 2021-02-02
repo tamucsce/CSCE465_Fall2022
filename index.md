@@ -230,7 +230,7 @@ No textbook is required for the course. Reading materials will be posted online 
 
 - **Information inference from public data on Bitcoin blockchain**: 1. Understand the public data posted on the blockchain of Bitcoin and figure out ways to download the data. 2. Repeat data analysis from existing papers. 3. Design new attacks to infer sensitive information from the public data, such as dead coins and large volume transactions and its correlations with the price of bitcoin.
 - **Information inference from public data on Ethereum**: Same as bitcoin. In addition, analyze the smart contracts.
-- **Scaling up blockchains**: sharding, rollup (optimistim rollup and zk rollup) etc.
+- **Scaling up blockchains**: sharding, rollup (optimistim rollup and zk rollup) etc. Understand zk-rollup and its relationship to zero knowledge proofs. Survey existing protocols and challenges.
 
 ## Ethics & Academic Integrity Statement and Policy
 
