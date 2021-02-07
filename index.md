@@ -80,13 +80,13 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>2/15</th>
         <th>Privacy-preserving logistic regression</th>
-        <th></th>
+        <th><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></th>
         <th></th>
     </tr>
     <tr>
         <th>2/17</th>
         <th>Privacy-preserving neural networks</th>
-        <th></th>
+        <th><a href="https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf">Helen: Maliciously Secure Coopetitive Learning for Linear Models</a></th>
         <th>Proposal due</th>
     </tr>
         <tr>
@@ -98,25 +98,27 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>2/24</th>
-        <th>Customized solutions: RSA accumulator</th>
+        <th>Introduction to blockchain and cryptocurrency</th>
         <th>
         </th>
         <th></th>
     </tr>
     <tr>
         <th>3/1</th>
-        <th>Customized solutions: Bilinear accumulator</th>
+        <th>Pricacy-preserving crypto-currencies</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/3</th>
-        <th rowspan="2">Generic solutions:SNARK</th>
-        <th rowspan="2"></th>
+        <th>Customized solutions: RSA accumulator</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/8</th>
+        <th>Customized solutions: Bilinear accumulator</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
@@ -133,14 +135,12 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>3/17</th>
-        <th>Introduction to blockchain and cryptocurrency</th>
-        <th></th>
+        <th rowspan="2"> Generic solutions:SNARK</th>
+        <th rowspan="2"></th>
         <th></th>
     </tr>
     <tr>
         <th>3/22</th>
-        <th>Pricacy-preserving crypto-currencies</th>
-        <th></th>
         <th></th>
     </tr>
     <tr>
