@@ -41,7 +41,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>1/27</th>
-        <th rowspan="7">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
+        <th rowspan="8">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
         <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
         <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
         </th>
@@ -79,45 +79,53 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>2/15</th>
-        <th>Privacy-preserving logistic regression</th>
+        <th></th>
         <th><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></th>
         <th></th>
     </tr>
     <tr>
         <th>2/17</th>
-        <th>Privacy-preserving neural networks</th>
+        <th></th>
         <th><a href="https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf">Helen: Maliciously Secure Coopetitive Learning for Linear Models</a></th>
-        <th>Proposal due</th>
+        <th></th>
     </tr>
-        <tr>
+    <tr>
         <th>2/22</th>
-        <th rowspan="15">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
-        <th>Introduction to verifiable computation and zero knowledge proof</th>
-        <th></th>   
+        <th>Privacy-preserving logistic regression and neural networks</th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
         <th>2/24</th>
+        <th rowspan="14">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
+        <th>Introduction to verifiable computation and zero knowledge proof</th>
+        <th>
+            <li><a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a></li>
+        </th>
+        <th>Proposal due 2/25</th>
+    </tr>
+    <tr>
+        <th>3/1</th>
         <th>Introduction to blockchain and cryptocurrency</th>
         <th>
+        <li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a></li>
         </th>
         <th></th>
     </tr>
     <tr>
-        <th>3/1</th>
-        <th>Pricacy-preserving crypto-currencies</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
         <th>3/3</th>
-        <th>Customized solutions: RSA accumulator</th>
-        <th></th>
+        <th>Pricacy-preserving crypto-currencies</th>
+        <th>
+            <ul>
+            <li><a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf">Inference attacks on Bitcoin</a></li>
+            <li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zcash</a></li>
+            </ul>
+        </th>
         <th></th>
     </tr>
     <tr>
         <th>3/8</th>
-        <th>Customized solutions: Bilinear accumulator</th>
+        <th>Customized solutions: RSA accumulators and Bilinear accumulators</th>
         <th></th>
         <th></th>
     </tr>
