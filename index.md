@@ -125,13 +125,13 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>3/8</th>
-        <th>Customized solutions: RSA accumulators and Bilinear accumulators</th>
+        <th>Customized solutions: RSA accumulators</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/10</th>
-        <th>Midterm project presentation</th>
+        <th>Customized solutions: Bilinear accumulators</th>
         <th></th>
         <th></th>
     </tr>
@@ -143,46 +143,44 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>3/17</th>
-        <th rowspan="2"> Generic solutions:SNARK</th>
-        <th rowspan="2"></th>
+        <th>Midterm project presentation </th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
         <th>3/22</th>
+        <th rowspan="2">Generic solutions:SNARK</th>
+        <th rowspan="2"></th>
         <th></th>
     </tr>
     <tr>
         <th>3/24</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>3/29</th>
         <th>Smart contract</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>3/29</th>
+        <th>3/31</th>
         <th>Privacy-preserving smart contract</th>
         <th></th>
         <th></th>
     </tr>
     <tr>
-        <th>3/31</th>
-        <th rowspan="4">Generic solutions: interactive proofs
-        </th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
         <th>4/5</th>
-        <th></th>
+        <th rowspan="3">Generic solutions: interactive proofs</th>
+        <th rowspan="3"></th>
         <th></th>
     </tr>
     <tr>
-        <th>4/7</th>
-        <th></th>    
+        <th>4/7</th>   
         <th></th>
     </tr>
     <tr>
         <th>4/12</th>
-        <th></th>
         <th></th>
     </tr>
         <tr>
