@@ -100,7 +100,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan="14">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
         <th>Introduction to verifiable computation and zero knowledge proof</th>
         <th>
-            <li><a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a></li>
+            <a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a>
         </th>
         <th>Proposal due 2/25</th>
     </tr>
@@ -108,7 +108,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>3/1</th>
         <th>Introduction to blockchain and cryptocurrency</th>
         <th>
-        <li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a></li>
+        <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a>
         </th>
         <th></th>
     </tr>
@@ -126,13 +126,17 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>3/8</th>
         <th>Customized solutions: RSA accumulators</th>
-        <th></th>
+        <th>
+        <a href="https://cs.brown.edu/people/alysyans/papers/camlys02.pdf">RSA Accumulator</a>
+        </th>
         <th></th>
     </tr>
     <tr>
         <th>3/10</th>
         <th>Customized solutions: Bilinear accumulators</th>
-        <th></th>
+        <th>
+        <a href="https://eprint.iacr.org/2010/455.pdf">Bilinear Accumulator</a>
+        </th>
         <th></th>
     </tr>
     <tr>
