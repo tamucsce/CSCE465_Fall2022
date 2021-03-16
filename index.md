@@ -97,7 +97,7 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
     <tr>
         <th>2/24</th>
-        <th rowspan="14">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
+        <th rowspan="15">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
         <th>Introduction to verifiable computation and zero knowledge proof</th>
         <th>
             <a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a>
@@ -154,7 +154,7 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>3/22</th>
         <th rowspan="2">Generic solutions:SNARK</th>
-        <th rowspan="2"></th>
+        <th rowspan="2"><a href="https://eprint.iacr.org/2013/279.pdf">SNARK</a></th>
         <th></th>
     </tr>
     <tr>
@@ -170,13 +170,18 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>3/31</th>
         <th>Privacy-preserving smart contract</th>
-        <th></th>
+        <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
         <th></th>
     </tr>
     <tr>
         <th>4/5</th>
         <th rowspan="3">Generic solutions: interactive proofs</th>
-        <th rowspan="3"></th>
+        <th rowspan="3">
+            <ul>
+                <li><a href="https://eprint.iacr.org/2013/351.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
+                <li><a href="https://eprint.iacr.org/2011/587.pdf">Polynomial delegation</a></li>
+            </ul>
+        </th>
         <th></th>
     </tr>
     <tr>
@@ -189,14 +194,14 @@ No textbook is required for the course. Reading materials will be posted online 
     </tr>
         <tr>
         <th>4/14</th>
-        <th rowspan="4">Project Presentations</th>
+        <th>Additional topics</th>
         <th></th>
         <th></th>
         <th></th>
     </tr>
       <tr>
         <th>4/19</th>
-        <th></th>
+        <th rowspan="3">Final Project Presentations</th>
         <th></th>
         <th></th>
     </tr>
