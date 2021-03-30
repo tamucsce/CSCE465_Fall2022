@@ -173,8 +173,16 @@ No textbook is required for the course. Reading materials will be posted online 
         <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
         <th></th>
     </tr>
-    <tr>
+    </tr>
+        <tr>
         <th>4/5</th>
+        <th>Security of Bitcoin Cash -- by Yu Shen</th>
+        <th><li><a href=https://eprint.iacr.org/2021/143.pdf">The Bitcoin Cash Backbone Protocol</a></li></th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>4/7</th>
         <th rowspan="3">Generic solutions: interactive proofs</th>
         <th rowspan="3">
             <ul>
@@ -185,20 +193,12 @@ No textbook is required for the course. Reading materials will be posted online 
         <th></th>
     </tr>
     <tr>
-        <th>4/7</th>   
+        <th>4/12</th>   
         <th></th>
     </tr>
     <tr>
-        <th>4/12</th>
-        <th></th>
-    </tr>
-        <tr>
         <th>4/14</th>
-        <th>Additional topics</th>
         <th></th>
-        <th></th>
-        <th></th>
-    </tr>
       <tr>
         <th>4/19</th>
         <th rowspan="3">Final Project Presentations</th>
