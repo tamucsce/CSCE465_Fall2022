@@ -178,7 +178,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan="3">Generic solutions: interactive proofs</th>
         <th rowspan="3">
             <ul>
-                <li><a href="https://eprint.iacr.org/2013/351.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
+                <li><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
                 <li><a href="https://eprint.iacr.org/2011/587.pdf">Polynomial delegation</a></li>
             </ul>
         </th>
