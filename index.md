@@ -179,7 +179,6 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>Security of Bitcoin Cash -- by Yu Shen</th>
         <th><li><a href="https://eprint.iacr.org/2021/143.pdf">The Bitcoin Cash Backbone Protocol</a></li></th>
         <th></th>
-        <th></th>
     </tr>
     <tr>
         <th>4/7</th>
