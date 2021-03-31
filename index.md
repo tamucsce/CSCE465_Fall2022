@@ -197,7 +197,8 @@ No textbook is required for the course. Reading materials will be posted online 
     <tr>
         <th>4/14</th>
         <th></th>
-      <tr>
+    </tr>
+     <tr>
         <th>4/19</th>
         <th rowspan="3">Final Project Presentations</th>
         <th></th>
