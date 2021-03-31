@@ -203,6 +203,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th rowspan="3">Final Project Presentations</th>
         <th></th>
         <th></th>
+        <th></th>
     </tr>
     <tr>
         <th>4/21</th>
