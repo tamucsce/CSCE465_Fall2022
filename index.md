@@ -215,7 +215,7 @@ No textbook is required for the course. Reading materials will be posted online 
         <th>4/26</th>
         <th></th>
         <th></th>
-        <th>Final report due 4/29</th>
+        <th>Final report due 5/2</th>
     </tr>
 </table>
 
