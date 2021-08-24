@@ -13,7 +13,7 @@
 **Textbooks:**
 - (Required) Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
 
-- (Optional) Handbook of Applied Cryptography – available online at: http://cacr.uwaterloo.ca/hac/
+- (Optional) Handbook of Applied Cryptography – available online at: <http://cacr.uwaterloo.ca/hac/>
 
 
 
@@ -22,7 +22,7 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"> Week </th>
+      <th style="width: 30%;"> Week </th>
       <th style="width: 47%;"> Topic </th>
       <th style="width: 30%;"> Required Reading</th>
       <th style="width: 30%;"> Assignment </th>
@@ -39,7 +39,7 @@
     <tr>
       <td>2 (Sep. 6)   </td>
       <td>OS Security Program vulnerabilities </td>
-      <td>GT Ch. 3 https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/
+      <td>GT Ch. 3 <https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/>
 AlephOne paper </td>
       <td></td>
     </tr>
@@ -116,7 +116,7 @@ AlephOne paper </td>
       <td>HW5 due</td>
     </tr> 
     <tr>
-      <td colspan="4"><b>FINAL EXAM</b> See: http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules
+      <td colspan="4"><b>FINAL EXAM</b> See: <http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules>
 MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
     </tr>
   </tbody>
@@ -133,15 +133,15 @@ MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
 ## Links
 **Piazza:** 
 
-**Assignment Turnin:** https://gradescope.com
+**Assignment Turnin:** <https://gradescope.com>
 
-**Gradebook:** https://canvas.tamu.edu/
+**Gradebook:** <https://canvas.tamu.edu/>
 
 
 ## Ethics & Academic Integrity Statement and Policy
 We will study/discuss threats and attacks in the class/lab. You should be fully aware of ethics when studying these techniques. If in any context you are not sure about where to draw the line, come talk to me first.
 
-"An Aggie does not lie, cheat, or steal or tolerate those who do." For additional information, please visit: http://aggiehonor.tamu.edu.  
+"An Aggie does not lie, cheat, or steal or tolerate those who do." For additional information, please visit: <http://aggiehonor.tamu.edu>.  
 
 Upon accepting admission to Texas A&M University, a student immediately assumes a commitment to uphold the Honor Code, to accept responsibility for learning, and to follow the philosophy and rules of the Honor System. Students will be required to state their commitment on examinations, research papers, and other academic work. Ignorance of the rules does not exclude any member of the TAMU community from the requirements or the processes of the Honor System.
 
