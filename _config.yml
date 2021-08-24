@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "CSCE489/689: Techniques in Applied Cryptography"
-description: Spring 2021
+title: "CSCE465: Computer and Network Security"
+description: Fall 2021
 github:
   show_downloads: false
   is_project_page: false
