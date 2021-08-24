@@ -1,256 +1,147 @@
 ## Course Information
 - **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
-- **Lectures**: MW 5:35 pm - 6:50 pm
-- **Office Hour**: By appointment
-
-## Course Description and Prerequisites
-
-This course covers techniques in applied cryptography and their applications in machine learning and blockchain to enhance data privacy. Related cryptographic techniques include secure multiparty computations, verifiable computations and zero knowledge proofs. We will discuss their basic concepts and state-of-the-art constructions. Additionally, we will talk about how to use these techniques to construct privacy-preserving machine learning, crypto-currencies and blockchain. We will focus on efficiency and functionality constraints in practice, and discuss challenges and solutions to efficiently realize these cryptographic protocols. 
-
-The course has no specific prerequisites. Basic knowledge of algorithms, data structures and programming is recommended.
+- **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 113
+- **Office Hour**: 1-2 pm Tuesday or by appointment, PETR 220
+- **TA**: Pouyan Forghani  (pouyan.forghani@tamu.edu)
+- **TA's Office Hour**: 2-3:30pm Tuesday or by appointment, Zoom
 
 
+## Course Description
+**Contents:** Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security. 
 
-## Textbook and Resource Materials
 
-No textbook is required for the course. Reading materials will be posted online during the semester
+**Textbooks:**
+- (Required) Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
+
+- (Optional) Handbook of Applied Cryptography – available online at: http://cacr.uwaterloo.ca/hac/
+
 
 
 ## Schedule (tentative)
 
-<table style="width: 140%">
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
     <tr>
-        <th style="width: 5%;">Date</th>
-        <th style="width: 20%;">Sections</th>
-        <th style="width: 40%;">Topic</th>
-        <th style="width: 45%;">Readings</th>
-        <th style="width: 20%;">Deadline</th>
+      <th style="width: 20%;"> Week </th>
+      <th style="width: 50%;"> Topic </th>
+      <th style="width: 30%;"> Required Reading</th>
+      <th style="width: 30%;"> Assignment </th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>1 (Aug. 30)   </td>
+      <td>Introduction Security Properties and Principles Security vocabulary </td>
+      <td>GT Ch. 1 Thompson paper </td>
+      <td></td>
     </tr>
     <tr>
-        <th>1/20</th>
-        <th rowspan="2">Introduction</th>
-        <th>Introduction and logitics</th>
-        <th></th>
-        <th></th>
+      <td>2 (Sep. 6)   </td>
+      <td>OS Security Program vulnerabilities </td>
+      <td>GT Ch. 3 https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/
+AlephOne paper </td>
+      <td></td>
     </tr>
     <tr>
-        <th>1/25</th>
-        <th>Background on Cryptography</th>
-        <th></th>
-        <th></th>
+      <td>3 (Sep. 13)   </td>
+      <td>Program vulnerabilities </td>
+      <td></td>
+      <td>HW 1 due</td>
     </tr>
     <tr>
-        <th>1/27</th>
-        <th rowspan="8">Secure Multiparty Computation and Privacy-Preserving Machine learning</th>
-        <th>Introduction to secure multiparty computation and Oblivious Transfer</th>
-        <th><a href="https://en.wikipedia.org/wiki/Oblivious_transfer#:~:text=In%20cryptography%2C%20an%20oblivious%20transfer,if%20any)%20has%20been%20transferred">Wikipedia</a>
-        </th>
-        <th></th>
+      <td>4 (Sep. 20)   </td>
+      <td>Program vulnerabilities Crypto – symmetric</td>
+      <td>GT Ch. 8.1 </td>
+      <td></td>
     </tr>
     <tr>
-        <th>2/1</th>
-        <th>Yao's Garbled circuit</th>
-        <th>
-        <ul>
-            <li><a href="https://www.peteresnyder.com/static/papers/Peter_Snyder_-_Garbled_Circuits_WCP_2_column.pdf"> Yao's Garbled circuits</a></li>
-            <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Youtube tutorial</a></li>
-            <li><a href="https://www.iacr.org/archive/eurocrypt2015/90560204/90560204.pdf">Half gates</a></li>
-        </ul>
-        </th>
-        <th></th>
+      <td>5 (Sep. 27)   </td>
+      <td>Crypto – symmetric vs. public </td>
+      <td>GT Ch. 8.5, 8.2 </td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>6 (Oct. 4)   </td>
+      <td>Crypto – hash functions and signatures, PKI </td>
+      <td>GT Ch. 8.3-8.4 </td>
+      <td>HW 2 due</td>
     </tr>
     <tr>
-        <th>2/3</th>
-        <th>GMW protocol</th>
-        <th><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">Youtube tutorial</a></th>
-        <th>Team Formation</th>
+      <td>7 (Oct. 11)   </td>
+      <td>Malware, <b>MIDTERM EXAM</b> </td>
+      <td>GT Ch. 4 </td>
+      <td>MIDTERM Oct 13</td>
     </tr>
     <tr>
-        <th>2/8</th>     
-        <th>Malicious security and fairness</th>
-        <th><a href="https://eprint.iacr.org/2008/049.pdf">Cut and choose</a></th>
-        <th></th>
+      <td>8 (Oct. 18)   </td>
+      <td>Network Security – TCP/IP, UDP, NAT </td>
+      <td>GT Ch. 5 </td>
+      <td></td>
     </tr>
     <tr>
-        <th>2/10</th>
-        <th>Privacy-preserving machine learning and linear regression</th>
-        <th><a href="https://eprint.iacr.org/2017/396.pdf">SecureML</a></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>2/15</th>
-        <th></th>
-        <th><a href="https://eprint.iacr.org/2018/403.pdf">ABY3: A Mixed Protocol Framework for Machine Learning</a></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>2/17</th>
-        <th></th>
-        <th><a href="https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf">Helen: Maliciously Secure Coopetitive Learning for Linear Models</a></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>2/22</th>
-        <th>Privacy-preserving logistic regression and neural networks</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>2/24</th>
-        <th rowspan="15">Verifiable Computation, Zero Knowledge Proof and Blockchain</th>
-        <th>Introduction to verifiable computation and zero knowledge proof</th>
-        <th>
-            <a href="https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf">Merkle Hash Tree</a>
-        </th>
-        <th>Proposal due 2/25</th>
-    </tr>
-    <tr>
-        <th>3/1</th>
-        <th>Introduction to blockchain and cryptocurrency</th>
-        <th>
-        <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/3</th>
-        <th>Pricacy-preserving crypto-currencies</th>
-        <th>
-            <ul>
-            <li><a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf">Inference attacks on Bitcoin</a></li>
-            <li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zcash</a></li>
-            </ul>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/8</th>
-        <th>Customized solutions: RSA accumulators</th>
-        <th>
-        <a href="https://cs.brown.edu/people/alysyans/papers/camlys02.pdf">RSA Accumulator</a>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/10</th>
-        <th>Customized solutions: Bilinear accumulators</th>
-        <th>
-        <a href="https://eprint.iacr.org/2010/455.pdf">Bilinear Accumulator</a>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/15</th>
-        <th>Midterm project presentation</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/17</th>
-        <th>Midterm project presentation </th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/22</th>
-        <th rowspan="2">Generic solutions:SNARK</th>
-        <th rowspan="2"><a href="https://eprint.iacr.org/2013/279.pdf">SNARK</a></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/24</th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/29</th>
-        <th>Smart contract</th>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>3/31</th>
-        <th>Privacy-preserving smart contract</th>
-        <th><a href="https://eprint.iacr.org/2015/675.pdf">Hawk</a></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>4/5</th>
-        <th>Security of Bitcoin Cash -- by Yu Shen</th>
-        <th><li><a href="https://eprint.iacr.org/2021/143.pdf">The Bitcoin Cash Backbone Protocol</a></li></th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>4/7</th>
-        <th rowspan="3">Generic solutions: interactive proofs</th>
-        <th rowspan="3">
-            <ul>
-                <li><a href="https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf">Time-Optimal Interactive Proofs for Circuit Evaluation</a></li>
-                <li><a href="https://eprint.iacr.org/2011/587.pdf">Polynomial delegation</a></li>
-            </ul>
-        </th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>4/12</th>   
-        <th></th>
-    </tr>
-    <tr>
-        <th>4/14</th>
-        <th></th>
+      <td>9 (Oct. 25)   </td>
+      <td>Network Security – DNS, Firewalls, VPN </td>
+      <td>GT Ch. 6.1-6.4 </td>
+      <td>HW3 due</td>
     </tr>
      <tr>
-        <th>4/19</th>
-        <th rowspan="3">Final Project Presentations</th>
-        <th></th>
-        <th></th>
-        <th></th>
+      <td>10 (Nov. 1)   </td>
+      <td>Wireless Security Web Security </td>
+      <td>GT Ch 6.5 GT Ch 7 </td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>11 (Nov. 8)   </td>
+      <td>Web Security </td>
+      <td></td>
+      <td>HW4 due</td>
     </tr>
     <tr>
-        <th>4/21</th>
-        <th></th>
-        <th></th>
-        <th></th>
+      <td>12 (Nov. 15)   </td>
+      <td>Security Models </td>
+      <td>GT Ch. 9 </td>
+      <td></td>
     </tr>
     <tr>
-        <th>4/26</th>
-        <th></th>
-        <th></th>
-        <th>Final report due 5/2</th>
+      <td>13 (Nov. 22)   </td>
+      <td>Distributed Security </td>
+      <td>GT Ch. 10 </td>
+      <td></td>
     </tr>
+    <tr>
+      <td>14 (Nov. 29)   </td>
+      <td>Physical Security </td>
+      <td>GT Ch. 2 </td>
+      <td>HW5 due</td>
+    </tr> 
+    <tr>
+      <td colspan="4"><b>FINAL EXAM</b> See: http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules
+MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
+    </tr>
+  </tbody>
+
 </table>
 
 ## Grading
-**Reading assignments:** 35%. Students will submit reviews for one of the reading materials every week.
+**Homeworks:** 500 points (distributed across 5 homeworks). Your assignments must be typed and in PDF format. Submit assignment to gradescope (https://www.gradescope.com)
 
-**Course project:** 65%. Students will form groups and complete research projects related to the topics of the course.
+**Midterm exam:** 200 points
+
+**Final exam:** 300 points
 
 ## Links
+**Piazza:** 
 
-**Assignments and Gradebook:** http://ecampus.tamu.edu/
+**Assignment Turnin:** https://gradescope.com
 
-## Suggested topics for projects:
-### Secure Multiparty Computations
+**Gradebook:** https://canvas.tamu.edu/
 
-- **Privacy-preserving decision trees and random forest training and/or predictions**: apply MPC techniques to train decision tree and random forest models on encrypted data. 1. Understand decision tree and random forest. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
-- **Privacy-preserving SVM training and/or predictions**: apply MPC techniques to train SVM models on encrypted data. 1. Understand SVM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol using existing libraries.
-- **Privacy-preserving alternating direction method of multipliers (ADMM)**: apply MPC techniques to train models on encrypted data using ditributed training algorithms (such as ADMM). 1. Understand ADMM. 2. Collect datasets and implement training and predictions on plaintext data. 3. Use only those computations efficiently supported by MPC, compare the accuracy to the baseline. 4. Implement the MPC protocol.
-
-### Zero Knowledge Proof
-
-- **Zero knowledge proof for machine learning model predictions**: generate a proof that the predictions of a secret model on a public testing dataset reaches certain accuracy. Design efficient ZKP protocols for convolution, neural networks and common activation functions.    
-- **Contingent payment on blockchain with zero knowledge proof**: design fair exchange protocols on blockchains using zero knowledge proofs.
-- **Privacy-preserving smart contracts**: 1. Understand the mechanism of smart contract. 2. Find commonly used smart contracts on existing blockchains and cryptocurrencies. 3. Given general purpose ZKP, design protocols for privacy-preserving smart contracts. 4. Implement the ZKP protocol using existing libraries and optimize for those commonly used smart contracts.
-
-### Blockchains
-
-- **Information inference from public data on Bitcoin blockchain**: 1. Understand the public data posted on the blockchain of Bitcoin and figure out ways to download the data. 2. Repeat data analysis from existing papers. 3. Design new attacks to infer sensitive information from the public data, such as dead coins and large volume transactions and its correlations with the price of bitcoin.
-- **Information inference from public data on Ethereum**: Same as bitcoin. In addition, analyze the smart contracts.
-- **Scaling up blockchains**: sharding, rollup (optimistim rollup and zk rollup) etc. Understand zk-rollup and its relationship to zero knowledge proofs. Survey existing protocols and challenges.
 
 ## Ethics & Academic Integrity Statement and Policy
+We will study/discuss threats and attacks in the class/lab. You should be fully aware of ethics when studying these techniques. If in any context you are not sure about where to draw the line, come talk to me first.
 
 "An Aggie does not lie, cheat, or steal or tolerate those who do." For additional information, please visit: http://aggiehonor.tamu.edu.  
 
 Upon accepting admission to Texas A&M University, a student immediately assumes a commitment to uphold the Honor Code, to accept responsibility for learning, and to follow the philosophy and rules of the Honor System. Students will be required to state their commitment on examinations, research papers, and other academic work. Ignorance of the rules does not exclude any member of the TAMU community from the requirements or the processes of the Honor System.
-
 
