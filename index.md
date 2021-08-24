@@ -22,8 +22,8 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"> Week </th>
-      <th style="width: 50%;"> Topic </th>
+      <th style="width: 25%;"> Week </th>
+      <th style="width: 47%;"> Topic </th>
       <th style="width: 30%;"> Required Reading</th>
       <th style="width: 30%;"> Assignment </th>
     </tr>
