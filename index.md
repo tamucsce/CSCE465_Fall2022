@@ -39,7 +39,7 @@
     <tr>
       <td>2 (Sep. 6)   </td>
       <td>OS Security Program vulnerabilities </td>
-      <td>GT Ch. 3 [AlephOne paper](https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/)
+      <td>GT Ch. 3 <a href= "https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/"> AlephOne paper </a>
       </td>
       <td></td>
     </tr>
@@ -116,7 +116,7 @@
       <td>HW5 due</td>
     </tr> 
     <tr>
-      <td colspan="4"><b>FINAL EXAM</b> See: [http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules](http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules)
+      <td colspan="4"><b>FINAL EXAM</b> See: <a href="http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules"> http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules </a>
 MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
     </tr>
   </tbody>
