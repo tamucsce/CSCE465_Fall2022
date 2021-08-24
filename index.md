@@ -131,7 +131,7 @@ MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
 **Final exam:** 300 points
 
 ## Links
-**Piazza:** 
+**Piazza:** <https://piazza.com/class/ksqgovtjmls49y>
 
 **Assignment Turnin:** <https://gradescope.com>
 
