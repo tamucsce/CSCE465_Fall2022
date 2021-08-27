@@ -1,8 +1,8 @@
 ## Course Information
-- **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
+- **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu, PETR 220)
 - **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 113
-- **Office Hour**: 1-2 pm Tuesday or by appointment, PETR 220
-- **TA**: Pouyan Forghani  (pouyan.forghani@tamu.edu)
+- **Office Hour**: 1-2 pm Thursday or by appointment, Zoom
+- **TA**: Pouyan Forghani  (pouyan.forghani@tamu.edu, PETR 446)
 - **TA's Office Hour**: 2-3:30pm Tuesday or by appointment, Zoom
 
 
