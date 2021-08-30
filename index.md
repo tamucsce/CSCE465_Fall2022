@@ -33,13 +33,13 @@
     <tr>
       <td>1 (Aug. 30)   </td>
       <td>Introduction Security Properties and Principles Security vocabulary </td>
-      <td>GT Ch. 1 Thompson paper </td>
+      <td>GT Ch. 1</td>
       <td></td>
     </tr>
     <tr>
       <td>2 (Sep. 6)   </td>
       <td>OS Security Program vulnerabilities </td>
-      <td>GT Ch. 3 <a href= "https://www.scmagazine.com/home/security-news/feds-charge-14-with-making-atm-cashouts-appear-like-one/"> AlephOne paper </a>
+      <td>GT Ch. 3
       </td>
       <td></td>
     </tr>
