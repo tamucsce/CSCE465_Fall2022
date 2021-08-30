@@ -131,11 +131,11 @@ MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
 **Final exam:** 300 points
 
 ## Links
-**Piazza:** <https://piazza.com/class/ksqgovtjmls49y>
+**Piazza:** <piazza.com/tamu/fall2021/csce465/home>
 
-**Assignment Turnin:** <https://gradescope.com>
+**Assignments and grading:** <https://gradescope.com>
 
-**Gradebook:** <https://canvas.tamu.edu/>
+**Course management:** <https://canvas.tamu.edu/>
 
 
 ## Ethics & Academic Integrity Statement and Policy
