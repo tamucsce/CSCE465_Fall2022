@@ -3,7 +3,7 @@
 - **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 113
 - **Office Hour**: 1-2 pm Thursday or by appointment, Zoom
 - **TA**: Pouyan Forghani  (pouyan.forghani@tamu.edu, PETR 446)
-- **TA's Office Hour**: 2-3:30pm Tuesday or by appointment, Zoom
+- **TA's Office Hour**: 1-3pm Weednesday or by appointment, Zoom
 
 
 ## Course Description
