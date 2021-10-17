@@ -63,20 +63,20 @@
     </tr> 
     <tr>
       <td>6 (Oct. 4)   </td>
-      <td>Crypto – hash functions and signatures, PKI </td>
+      <td>Crypto – public </td>
       <td>GT Ch. 8.3-8.4 </td>
       <td>HW 2 due</td>
     </tr>
     <tr>
       <td>7 (Oct. 11)   </td>
-      <td>Malware, <b>MIDTERM EXAM</b> </td>
-      <td>GT Ch. 4 </td>
+      <td>Crypto hash functions and signatures, PKI, <b>MIDTERM EXAM</b> </td>
+      <td>GT Ch. 8.4 </td>
       <td>MIDTERM Oct 13</td>
     </tr>
     <tr>
       <td>8 (Oct. 18)   </td>
-      <td>Network Security – TCP/IP, UDP, NAT </td>
-      <td>GT Ch. 5 </td>
+      <td>Malware, Network Security – TCP/IP, UDP, NAT </td>
+      <td>GT Ch. 4, Ch. 5 </td>
       <td></td>
     </tr>
     <tr>
