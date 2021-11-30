@@ -106,13 +106,13 @@
     <tr>
       <td>13 (Nov. 22)   </td>
       <td>Bitcoin and Blockchains </td>
-      <td>GT Ch. 10 </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>14 (Nov. 29)   </td>
       <td>Ethereum and Smart Contract </td>
-      <td>GT Ch. 2 </td>
+      <td></td>
       <td>HW5 due</td>
     </tr> 
     <tr>
