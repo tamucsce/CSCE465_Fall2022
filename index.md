@@ -31,7 +31,7 @@
 |8 (Oct. 12)|**MIDTERM Oct 12**||No class on 10/10.|
 |9 (Oct. 17)|Malware| Ch. 4||
 |10 (Oct. 24)|Network Security|Ch. 5, 6.1-6.4 |HW3 due|
-|11 (Oct. 31)|Wireless Security|Ch 6.5 GT ||
+|11 (Oct. 31)|Wireless Security|Ch 6.5 ||
 |12 (Nov. 7)|Web Security|Ch 7|HW4 due|
 |13 (Nov. 14)|Web Security, Security Models| Ch. 9||
 |14 (Nov. 21)|Security Models||No Class on 11/23.|
