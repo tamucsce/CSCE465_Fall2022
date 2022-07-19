@@ -1,9 +1,9 @@
 ## Course Information
-- **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu, PETR 220)
-- **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 113
-- **Office Hour**: 1-2 pm Thursday or by appointment, Zoom
-- **TA**: Pouyan Forghani  (pouyan.forghani@tamu.edu, PETR 446)
-- **TA's Office Hour**: 1-3pm Weednesday or by appointment, Zoom
+- **Instructor**: **Prof. Yupeng Zhang** (zhangyp@tamu.edu, PETR 220)
+- **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 124
+- **Office Hour**: TBD or by appointment, Zoom
+- **TA**: TBD  (pouyan.forghani@tamu.edu, PETR 446)
+- **TA's Office Hour**: TBD or by appointment, Zoom
 
 
 ## Course Description
@@ -19,109 +19,30 @@
 
 ## Schedule (tentative)
 
-<table style="table-layout: fixed; font-size: 88%;">
-  <thead>
-    <tr>
-      <th style="width: 30%;"> Week </th>
-      <th style="width: 47%;"> Topic </th>
-      <th style="width: 30%;"> Required Reading</th>
-      <th style="width: 30%;"> Assignment </th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td>1 (Aug. 30)   </td>
-      <td>Introduction Security Properties and Principles Security vocabulary </td>
-      <td>GT Ch. 1</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2 (Sep. 6)   </td>
-      <td>OS Security Program vulnerabilities </td>
-      <td>GT Ch. 3
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3 (Sep. 13)   </td>
-      <td>Program vulnerabilities </td>
-      <td></td>
-      <td>HW 1 due</td>
-    </tr>
-    <tr>
-      <td>4 (Sep. 20)   </td>
-      <td>Program vulnerabilities Crypto – symmetric</td>
-      <td>GT Ch. 8.1 </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>5 (Sep. 27)   </td>
-      <td>Crypto – symmetric vs. public </td>
-      <td>GT Ch. 8.5, 8.2 </td>
-      <td></td>
-    </tr> 
-    <tr>
-      <td>6 (Oct. 4)   </td>
-      <td>Crypto – public </td>
-      <td>GT Ch. 8.3-8.4 </td>
-      <td>HW 2 due</td>
-    </tr>
-    <tr>
-      <td>7 (Oct. 11)   </td>
-      <td>Crypto hash functions and signatures, PKI, <b>MIDTERM EXAM</b> </td>
-      <td>GT Ch. 8.4 </td>
-      <td>MIDTERM Oct 13</td>
-    </tr>
-    <tr>
-      <td>8 (Oct. 18)   </td>
-      <td>Malware, Network Security – TCP/IP, UDP, NAT </td>
-      <td>GT Ch. 4, Ch. 5 </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>9 (Oct. 25)   </td>
-      <td>Network Security – DNS, Firewalls, VPN </td>
-      <td>GT Ch. 6.1-6.4 </td>
-      <td>HW3 due</td>
-    </tr>
-     <tr>
-      <td>10 (Nov. 1)   </td>
-      <td>Wireless Security Web Security </td>
-      <td>GT Ch 6.5 GT Ch 7 </td>
-      <td></td>
-    </tr> 
-    <tr>
-      <td>11 (Nov. 8)   </td>
-      <td>Web Security </td>
-      <td></td>
-      <td>HW4 due</td>
-    </tr>
-    <tr>
-      <td>12 (Nov. 15)   </td>
-      <td>Security Models </td>
-      <td>GT Ch. 9 </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>13 (Nov. 22)   </td>
-      <td>Bitcoin and Blockchains </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>14 (Nov. 29)   </td>
-      <td>Ethereum and Smart Contract </td>
-      <td></td>
-      <td>HW5 due</td>
-    </tr> 
-    <tr>
-      <td colspan="4"><b>FINAL EXAM</b> See: <a href="http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules"> http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules </a>
-MW 4:10pm has final exam Monday Decmber 13 from 3:30pm-5:30pm</td>
-    </tr>
-  </tbody>
+|Week|Topic|Required Reading|Assignment|
+|:---|:------:|:---:|:---:|
+|1 (Aug. 24)|Introduction Security Properties and Principles Security vocabulary|GT Ch. 1||
+|2 (Aug. 29)|OS Security Program vulnerabilities|GT Ch. 3||
+|3 (Sep. 7)|Program vulnerabilities||HW 1 due. No Class on 9/5.|
+|4 (Sep. 12)|Program vulnerabilities Crypto – symmetric|GT Ch. 8.1||
+|5 (Sep. 19)|Crypto – symmetric vs. public|GT Ch. 8.5, 8.2||
+|6 (Sep. 26)|Crypto – public|GT Ch. 8.3-8.4|HW 2 due|
+|7 (Oct. 3)|Crypto hash functions and signatures, PKI|GT Ch. 8.4||
+|8 (Oct. 12)|**MIDTERM Oct 12**||No class on 10/10.|
+|9 (Oct. 17)|Malware|GT Ch. 4||
+|10 (Oct. 24)|Network Security|GT Ch. Ch. 5, 6.1-6.4 |HW3 due|
+|11 (Oct. 31)|Wireless Security|GT Ch 6.5 GT ||
+|12 (Nov. 7)|Web Security|Ch 7|HW4 due|
+|13 (Nov. 14)|Web Security, Security Models|GT Ch. 9||
+|14 (Nov. 21)|Security Models||No Class on 11/23.|
+|15 (Nov. 28)|Bitcoin and Ethereum||HW5 due|
+|16 (Dec. 5)|Honor Presentations|||
 
-</table>
+**FINAL EXAM** See: http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules.  
+MW 4:10pm has final exam on **Monday Decmber 12 from 3:30pm-5:30pm**.
+    
+
+
 
 ## Grading
 **Homeworks:** 500 points (distributed across 5 homeworks). Your assignments must be typed and in PDF format. Submit assignment to gradescope (https://www.gradescope.com)
