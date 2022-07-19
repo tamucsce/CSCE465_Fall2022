@@ -19,8 +19,8 @@
 
 ## Schedule (tentative)
 
-|Week|Topic|Required Reading|Assignment|
-|:------:|:------:|:---:|:---:|
+|Week<img width=10/>|Topic|Required Reading|Assignment|
+|:------|:------:|:---:|:---:|
 |1 (Aug. 24)|Introduction Security Properties and Principles Security vocabulary| Ch. 1||
 |2 (Aug. 29)|OS Security Program vulnerabilities| Ch. 3||
 |3 (Sep. 7)|Program vulnerabilities||HW 1 due. No Class on 9/5.|
