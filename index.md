@@ -20,20 +20,20 @@
 ## Schedule (tentative)
 
 |Week|Topic|Required Reading|Assignment|
-|:---|:------:|:---:|:---:|
-|1 (Aug. 24)|Introduction Security Properties and Principles Security vocabulary|GT Ch. 1||
-|2 (Aug. 29)|OS Security Program vulnerabilities|GT Ch. 3||
+|:----|:------:|:---:|:--:|
+|1 (Aug. 24)|Introduction Security Properties and Principles Security vocabulary| Ch. 1||
+|2 (Aug. 29)|OS Security Program vulnerabilities| Ch. 3||
 |3 (Sep. 7)|Program vulnerabilities||HW 1 due. No Class on 9/5.|
-|4 (Sep. 12)|Program vulnerabilities Crypto – symmetric|GT Ch. 8.1||
-|5 (Sep. 19)|Crypto – symmetric vs. public|GT Ch. 8.5, 8.2||
-|6 (Sep. 26)|Crypto – public|GT Ch. 8.3-8.4|HW 2 due|
-|7 (Oct. 3)|Crypto hash functions and signatures, PKI|GT Ch. 8.4||
+|4 (Sep. 12)|Program vulnerabilities Crypto – symmetric| Ch. 8.1||
+|5 (Sep. 19)|Crypto – symmetric vs. public| Ch. 8.5, 8.2||
+|6 (Sep. 26)|Crypto – public| Ch. 8.3-8.4|HW 2 due|
+|7 (Oct. 3)|Crypto hash functions and signatures, PKI| Ch. 8.4||
 |8 (Oct. 12)|**MIDTERM Oct 12**||No class on 10/10.|
-|9 (Oct. 17)|Malware|GT Ch. 4||
-|10 (Oct. 24)|Network Security|GT Ch. Ch. 5, 6.1-6.4 |HW3 due|
-|11 (Oct. 31)|Wireless Security|GT Ch 6.5 GT ||
+|9 (Oct. 17)|Malware| Ch. 4||
+|10 (Oct. 24)|Network Security|Ch. 5, 6.1-6.4 |HW3 due|
+|11 (Oct. 31)|Wireless Security|Ch 6.5 GT ||
 |12 (Nov. 7)|Web Security|Ch 7|HW4 due|
-|13 (Nov. 14)|Web Security, Security Models|GT Ch. 9||
+|13 (Nov. 14)|Web Security, Security Models| Ch. 9||
 |14 (Nov. 21)|Security Models||No Class on 11/23.|
 |15 (Nov. 28)|Bitcoin and Ethereum||HW5 due|
 |16 (Dec. 5)|Honor Presentations|||
