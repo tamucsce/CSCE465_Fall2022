@@ -1,9 +1,9 @@
 ## Course Information
 - **Instructor**: **Prof. Yupeng Zhang** (zhangyp@tamu.edu, PETR 220)
 - **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 124
-- **Office Hour**: TBD or by appointment, Zoom
-- **TA**: TBD  (pouyan.forghani@tamu.edu, PETR 446)
-- **TA's Office Hour**: TBD or by appointment, Zoom
+- **Office Hour**: TBD or by appointment
+- **TAs**: Haidong Wang (hdwang@tamu.edu, PETR 446) Avdhi Hitesh Shah (Grader, avdhi.shah@tamu.edu) 
+- **TA's Office Hour**: TBD or by appointment
 
 
 ## Course Description
@@ -11,7 +11,7 @@
 
 
 **Textbooks:**
-- (Required) Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
+- Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
 
 - (Optional) Handbook of Applied Cryptography – available online at: <http://cacr.uwaterloo.ca/hac/>
 
@@ -25,16 +25,16 @@
 |2 (Aug. 29)|OS Security Program vulnerabilities| Ch. 3||
 |3 (Sep. 7)|Program vulnerabilities||HW 1 due. No Class on 9/5.|
 |4 (Sep. 12)|Program vulnerabilities Crypto – symmetric| Ch. 8.1||
-|5 (Sep. 19)|Crypto – symmetric vs. public| Ch. 8.5, 8.2||
+|5 (Sep. 19)|Crypto – symmetric| Ch. 8.5, 8.2| Guest lecture at PETR118 by Prof. Yanning Shen, Machine learning fairness|
 |6 (Sep. 26)|Crypto – public| Ch. 8.3-8.4|HW 2 due|
 |7 (Oct. 3)|Crypto hash functions and signatures, PKI| Ch. 8.4||
 |8 (Oct. 12)|**MIDTERM Oct 12**||No class on 10/10.|
 |9 (Oct. 17)|Malware| Ch. 4||
 |10 (Oct. 24)|Network Security|Ch. 5, 6.1-6.4 |HW3 due|
 |11 (Oct. 31)|Wireless Security|Ch 6.5 ||
-|12 (Nov. 7)|Web Security|Ch 7|HW4 due|
-|13 (Nov. 14)|Web Security, Security Models| Ch. 9||
-|14 (Nov. 21)|Security Models||No Class on 11/23.|
+|12 (Nov. 7)|Web Security|Ch.7|No class on 11/9 due to travel. HW4 due|
+|13 (Nov. 14)|Web Security| Ch. 7||
+|14 (Nov. 21)|Security Models|Ch. 9.| No Class on 11/23.|
 |15 (Nov. 28)|Bitcoin and Ethereum||HW5 due|
 |16 (Dec. 5)|Honor Presentations|||
 
@@ -52,7 +52,7 @@ MW 4:10pm has final exam on **Monday Decmber 12 from 3:30pm-5:30pm**.
 **Final exam:** 300 points
 
 ## Links
-**Piazza:** <https://piazza.com/tamu/fall2021/csce465/home>
+**Piazza:** <https://piazza.com/tamu/fall2022/csce465/home>
 
 **Assignments and grading:** <https://gradescope.com>
 
