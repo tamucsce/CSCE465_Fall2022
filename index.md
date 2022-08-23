@@ -1,9 +1,12 @@
 ## Course Information
 - **Instructor**: **Prof. Yupeng Zhang** (zhangyp@tamu.edu, PETR 220)
 - **Lectures**: MW 4:10 pm - 5:25 pm, HRBB 124
-- **Office Hour**: TBD or by appointment
-- **TAs**: Haidong Wang (hdwang@tamu.edu, PETR 446) Avdhi Hitesh Shah (Grader, avdhi.shah@tamu.edu) 
-- **TA's Office Hour**: TBD or by appointment
+- **Office Hour**: 2-3pm Tuesday
+- **TAs**: Haidong Wang (hdwang@tamu.edu, EABA 108B) 
+
+    Avdhi Hitesh Shah (Grader, avdhi.shah@tamu.edu) 
+    
+- **TA's Office Hour**: Tuesday and Thursday 4-5pm at EABA 108B
 
 
 ## Course Description
@@ -23,8 +26,8 @@
 |:------|:------:|:---:|:---:|
 |1 (Aug. 24)|Introduction Security Properties and Principles Security vocabulary| Ch. 1||
 |2 (Aug. 29)|OS Security Program vulnerabilities| Ch. 3||
-|3 (Sep. 7)|Program vulnerabilities||HW 1 due. No Class on 9/5.|
-|4 (Sep. 12)|Program vulnerabilities Crypto – symmetric| Ch. 8.1||
+|3 (Sep. 7)|Program vulnerabilities||No Class on 9/5.|
+|4 (Sep. 12)|Program vulnerabilities Crypto – symmetric| Ch. 8.1|HW 1 due.|
 |5 (Sep. 19)|Crypto – symmetric| Ch. 8.5, 8.2| Guest lecture at PETR118 by Prof. Yanning Shen, Machine learning fairness|
 |6 (Sep. 26)|Crypto – public| Ch. 8.3-8.4|HW 2 due|
 |7 (Oct. 3)|Crypto hash functions and signatures, PKI| Ch. 8.4||
@@ -56,7 +59,7 @@ MW 4:10pm has final exam on **Monday Decmber 12 from 3:30pm-5:30pm**.
 
 **Assignments and grading:** <https://gradescope.com>
 
-**Course management:** <https://canvas.tamu.edu/>
+**Course syllabus and slides:** <https://canvas.tamu.edu/>
 
 
 ## Ethics & Academic Integrity Statement and Policy
