@@ -20,7 +20,7 @@
 
 
 
-## Schedule (tentative)
+## Schedule
 
 |Week<img width=100/>|Topic|Required Reading|Assignment|
 |:------|:------:|:---:|:---:|
@@ -28,7 +28,7 @@
 |2 (Aug. 29)|OS Security Program vulnerabilities| Ch. 3||
 |3 (Sep. 7)|Program vulnerabilities||No Class on 9/5.|
 |4 (Sep. 12)|Program vulnerabilities Crypto – symmetric| Ch. 8.1|HW 1 due.|
-|5 (Sep. 19)|Crypto – symmetric| Ch. 8.5, 8.2| Guest lecture at PETR118 by Prof. Yanning Shen, Machine learning fairness|
+|5 (Sep. 19)|Crypto – symmetric| Ch. 8.5, 8.2| Guest lecture at PETR118 on 9/19, by Prof. Yanning Shen, Machine learning fairness|
 |6 (Sep. 26)|Crypto – public| Ch. 8.3-8.4|HW 2 due|
 |7 (Oct. 3)|Crypto hash functions and signatures, PKI| Ch. 8.4||
 |8 (Oct. 12)|**MIDTERM Oct 12**||No class on 10/10.|
@@ -41,7 +41,7 @@
 |15 (Nov. 28)|Bitcoin and Ethereum||HW5 due|
 |16 (Dec. 5)|Honor Presentations|||
 
-**FINAL EXAM** See: http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules.  
+**FINAL EXAM** See: [http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules](https://aggie.tamu.edu/registration-and-records/classes/final-examination-schedules).  
 MW 4:10pm has final exam on **Monday Decmber 12 from 3:30pm-5:30pm**.
     
 
