@@ -26,20 +26,20 @@
 |:------|:------:|:---:|:---:|
 |1 (Aug. 24)|Introduction Security Properties and Principles Security vocabulary| Ch. 1||
 |2 (Aug. 29)|OS Security Program vulnerabilities| Ch. 3||
-|3 (Sep. 7)|Program vulnerabilities||No Class on 9/5.|
+|3 (Sep. 7)|Program vulnerabilities||Labor day: 9/5.|
 |4 (Sep. 12)|Program vulnerabilities Crypto – symmetric| Ch. 8.1|HW 1 due.|
 |5 (Sep. 19)|Crypto – symmetric| Ch. 8.5, 8.2| Guest lecture at PETR118 on 9/19, by Prof. Yanning Shen, Machine learning fairness|
 |6 (Sep. 26)|Crypto – public| Ch. 8.3-8.4|HW 2 due|
 |7 (Oct. 3)|Crypto hash functions and signatures, PKI| Ch. 8.4||
-|8 (Oct. 12)|**MIDTERM Oct 12**||No class on 10/10.|
-|9 (Oct. 17)|Malware| Ch. 4||
+|8 (Oct. 12)|**MIDTERM Oct 12**||Fall break: 10/10.|
+|9 (Oct. 17)|Malware and Network Security| Ch. 4||
 |10 (Oct. 24)|Network Security|Ch. 5, 6.1-6.4 |HW3 due|
-|11 (Oct. 31)|Wireless Security|Ch 6.5 ||
-|12 (Nov. 7)|Web Security|Ch.7|No class on 11/9 due to travel. HW4 due|
-|13 (Nov. 14)|Web Security| Ch. 7||
-|14 (Nov. 21)|Security Models|Ch. 9.| No Class on 11/23.|
-|15 (Nov. 28)|Bitcoin and Ethereum||HW5 due|
-|16 (Dec. 5)|Honor Presentations|||
+|11 (Oct. 31)|Network Security|Ch 6.5 |No class on 10/31 due to travel.|
+|12 (Nov. 7)|Web Security|Ch.7|No class on 11/9 due to travel. |
+|13 (Nov. 14)|Web Security| Ch. 7|HW4 due|
+|14 (Nov. 21)|Security Models|Ch. 9.| Thanksgiving: No Class on 11/23.|
+|15 (Nov. 28)|Bitcoin and Ethereum|||
+|16 (Dec. 5)|Honor Presentations||HW5 due|
 
 **FINAL EXAM** See: [http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules](https://aggie.tamu.edu/registration-and-records/classes/final-examination-schedules).  
 MW 4:10pm has final exam on **Monday Decmber 12 from 3:30pm-5:30pm**.
